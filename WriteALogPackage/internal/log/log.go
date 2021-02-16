@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	api "github.com/travisjeffery/proglog/api/v1"
+	api "github.com/yamoinza/proglog-1/WriteALogPackage/api/v1"
 )
 
 type Log struct {
